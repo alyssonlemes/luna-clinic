@@ -99,34 +99,6 @@ luna-clinic/
             └── ScrollReveal.tsx    ← Animações via IntersectionObserver
 ```
 
----
-
-## ✏️ Customizações essenciais
-
-### 1. Número de WhatsApp
-Troque **`5500000000000`** pelo número real (com DDI) nos arquivos:
-- `src/components/ui/Navbar.tsx`
-- `src/components/ui/WhatsAppButton.tsx`
-- `src/components/sections/Hero.tsx`
-- `src/components/sections/HowItWorks.tsx`
-- `src/components/sections/CTA.tsx`
-- `src/components/sections/Contact.tsx`
-- `src/components/sections/Differentials.tsx`
-
-### 2. Endereço e contato
-Edite `src/components/sections/Contact.tsx` e `src/components/ui/Footer.tsx`.
-
-### 5. Formulário por e-mail (Resend)
-- Endpoint: `src/app/api/contact/route.ts`
-- Variáveis: `RESEND_API_KEY`, `CONTACT_TO_EMAIL`, `CONTACT_FROM_EMAIL`
-
-### 3. CREFITO das fundadoras
-Edite `src/components/sections/Founders.tsx` — campo `cref`.
-
-### 4. SEO
-Edite `src/app/layout.tsx` → objeto `metadata`.
-
----
 
 ## 🎨 Paleta de cores (Tailwind tokens)
 
