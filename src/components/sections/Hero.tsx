@@ -26,15 +26,11 @@ export default function Hero() {
           </div>
 
           <h1 className="font-display text-4xl md:text-5xl lg:text-[3.4rem] leading-[1.15] text-luna-charcoal mb-6 animate-fade-up">
-            Clinica de fisioterapia pediatrica em{" "}
-            <span className="relative inline-block">
-              <span className="bg-gradient-to-r from-[#0A2B53] via-[#315888] to-[#8BA5C4] bg-clip-text text-transparent">Franca-SP</span>
+            Fisioterapia<span className="relative inline-block"><span className="bg-gradient-to-r from-[#0A2B53] via-[#315888] to-[#8BA5C4] bg-clip-text text-transparent">especializada</span></span>  {" "}
+            para o desenvolvimento infantil{" "}
+             <span className="relative inline-block">
+              <span className="bg-gradient-to-r from-[#0A2B53] via-[#315888] to-[#8BA5C4] bg-clip-text text-transparent">em Franca-SP</span>
             </span>{" "}
-            para o desenvolvimento infantil com{" "}
-            <em className="font-accent italic not-italic text-[#315888]">
-              respeito
-            </em>{" "}
-            e acolhimento
           </h1>
 
           <p className="text-luna-gray text-lg leading-relaxed mb-8 max-w-xl animate-fade-up animate-delay-200">
@@ -75,7 +71,7 @@ export default function Hero() {
             </div>
             <div>
               <p className="text-luna-charcoal font-semibold text-sm">
-                +150 famílias atendidas
+                Diversas famílias atendidas
               </p>
               <p className="text-luna-gray text-xs">com amor e cuidado</p>
             </div>

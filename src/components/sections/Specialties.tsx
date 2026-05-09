@@ -1,19 +1,5 @@
 const specialties = [
-  {
-    icon: "🧠",
-    title: "Alterações Neurológicas e Genéticas",
-    desc: "Atendimento especializado para crianças com condições como paralisia cerebral, síndrome de Down, autismo e outras alterações que impactam o desenvolvimento motor.",
-    color: "bg-[#E8EEF5]",
-    accent: "border-[#315888]/35",
-  },
-  {
-    icon: "🏃",
-    title: "Atraso no Desenvolvimento Motor",
-    desc: "Identificação precoce e acompanhamento para crianças que apresentam atraso em marcos como sentar, engatinhar, andar ou outras habilidades motoras.",
-    color: "bg-[#E3EBF4]",
-    accent: "border-[#8BA5C4]/45",
-  },
-  {
+   {
     icon: "🔄",
     title: "Torcicolo Muscular",
     desc: "Tratamento eficaz para o torcicolo congênito ou adquirido, com abordagem gentil e efetiva, devolvendo mobilidade e qualidade de vida ao bebê.",
@@ -26,6 +12,20 @@ const specialties = [
     desc: "Avaliação e tratamento da plagiocefalia e outras assimetrias do crânio de forma segura e não invasiva, acompanhando o crescimento do bebê.",
     color: "bg-[#EAF0F7]",
     accent: "border-[#0A2B53]/20",
+  },
+  {
+    icon: "🏃",
+    title: "Atraso no Desenvolvimento Motor",
+    desc: "Identificação precoce e acompanhamento para crianças que apresentam atraso em marcos como sentar, engatinhar, andar ou outras habilidades motoras.",
+    color: "bg-[#E3EBF4]",
+    accent: "border-[#8BA5C4]/45",
+  },
+  {
+    icon: "🧠",
+    title: "Alterações Neurológicas e Genéticas",
+    desc: "Atendimento especializado para crianças com condições como paralisia cerebral, síndrome de Down, autismo e outras alterações que impactam o desenvolvimento motor.",
+    color: "bg-[#E8EEF5]",
+    accent: "border-[#315888]/35",
   },
   {
     icon: "🌱",

@@ -15,18 +15,17 @@ export default function About() {
               </div>
 
               {/* Stats card */}
-              <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl shadow-xl p-5 flex gap-6">
-                {[
-                  { num: "150+", label: "Crianças atendidas" },
-                  { num: "2", label: "Especialistas" },
-                ].map((s) => (
-                  <div key={s.label} className="text-center">
+              <div className="absolute bottom-4 right-16">
+                <div className="bg-white shadow-xl rounded-[999px] px-8 py-5">
+                  <div className="text-center">
                     <p className="font-display text-2xl font-bold text-[#315888]">
-                      {s.num}
+                      4
                     </p>
-                    <p className="text-luna-gray text-xs mt-0.5">{s.label}</p>
+                    <p className="text-luna-gray text-xs mt-0.5">
+                      Fisioterapeutas pediátricas
+                    </p>
                   </div>
-                ))}
+                </div>
               </div>
             </div>
           </div>
@@ -52,15 +51,14 @@ export default function About() {
             <p className="text-luna-gray leading-relaxed mb-5">
               Fundada em 2026 por{" "}
               <strong className="text-luna-charcoal">Mariana Lemes</strong> e{" "}
-              <strong className="text-luna-charcoal">Evelyn Guilherme</strong>, a
-              clínica surgiu da experiência prática e do olhar sensível de ambas
-              para as reais necessidades das famílias — especialmente nos primeiros
+              <strong className="text-luna-charcoal">Evelyn Guilherme</strong>, o espaço surgiu da experiência prática e do olhar sensível de ambas
+              para as reais <strong className="text-luna-charcoal">necessidades das famílias</strong>, especialmente nos primeiros
               anos de vida das crianças.
             </p>
 
             <p className="text-luna-gray leading-relaxed mb-8">
               Nosso propósito vai além do tratamento: queremos que cada família que
-              passa pela LUNA saia com mais confiança, mais informação e com a
+              passe pela <strong className="text-luna-charcoal">LUNA</strong> saia com mais confiança, mais informação e com a
               certeza de que seu filho está sendo cuidado com técnica, carinho e
               respeito absoluto.
             </p>

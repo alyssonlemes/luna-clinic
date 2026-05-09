@@ -66,7 +66,7 @@ export default function Contact() {
     {
       icon: <Clock size={20} />,
       label: "Horários",
-      value: "Seg–Sex: 8h às 18h\nSábado: 8h às 12h",
+      value: "Seg–Sex: 8h às 18h",
       color: "bg-[#EAF0F7] text-[#0A2B53]",
     },
   ];
