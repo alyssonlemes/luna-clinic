@@ -2,23 +2,45 @@ const founders = [
   {
     name: "Mariana Lemes",
     title: "Fisioterapeuta Pediátrica",
-    cref: "CREFITO-3 / 00000-F",
+    cref: "CREFITO-3/381986-F",
     photo: "/images/mariana.jpg",
     photoPosition: "center 24%",
     color: "from-[#E8EEF5] to-[#EDF2F8]",
     accent: "bg-[#315888]",
-    bio: "Mariana é fisioterapeuta formada pela Universidade X, com pós-graduação em Fisioterapia Neuropediátrica. Atuou em hospitais de referência antes de fundar a LUNA, acumulando mais de 8 anos de experiência com crianças de diversas condições. Seu olhar clínico e sensível já transformou a vida de centenas de famílias.",
+    bio: ` Olá, meu nome é Mariana Lemes Diamantino, fisioterapeuta pela UFTM, especializada em neuropediatria pela UFSCar e sócia fundadora da LUNA - Centro de Desenvolvimento Infantil. Minha paixão pela neurologia infantil surgiu na graduação e se fortaleceu ao longo da trajetória acadêmica, com participação em projetos e pesquisas voltados ao desenvolvimento motor na infância. Também fundei a United Women in Health, ONG parceira da Embaixada dos EUA no Brasil, com o propósito de desenvolver e conectar mulheres líderes na área da saúde (@unwheth).
+Na LUNA, ofereço um atendimento
+individualizado, humanizado e baseado
+em evidências, acolhendo cada família
+com escuta, clareza e direcionamento
+seguro para o desenvolvimento do seu filho
+    `,
     tags: ["Neuropediatria", "Desenvolvimento Motor", "Estimulação Precoce"],
   },
   {
     name: "Evelyn Guilherme",
     title: "Fisioterapeuta Pediátrica",
-    cref: "CREFITO-3 / 00001-F",
+    cref: "CREFITO-3/234042-F",
     photo: "/images/evelyn.JPG",
     photoPosition: "center 20%",
     color: "from-[#E3EBF4] to-[#EEF3F9]",
     accent: "bg-[#8BA5C4]",
-    bio: "Evelyn se especializou em fisioterapia pediátrica após perceber, na prática, a enorme diferença que um acompanhamento qualificado e humano faz na vida das crianças. Com formação em Ortopedia Pediátrica e Terapia Manual, ela traz um olhar único e cuidadoso para cada atendimento na LUNA.",
+    bio: `Olá, meu nome é Evelyn Maria Guilherme, Fisioterapeuta, Mestre e
+Doutora em Neurociências, com Especialização em Neuropediatria
+pela Universidade Federal de São Carlos. Minha trajetória foi
+construída entre a pesquisa e a clínica, com dedicação à neurologia
+infantil e ao acompanhamento cuidadoso do desenvolvimento das
+crianças.
+Em 2024 iniciei minha experiência mais
+transformadora: a maternidade. Tornar-me mãe
+ampliou minha sensibilidade e fortaleceu ainda
+mais meu compromisso com um cuidado atento,
+individualizado e respeitoso às necessidades de
+cada criança e de sua família.
+Acredito em uma atuação fundamentada
+em evidências, mas guiada pelo olhar
+humano, acompanhando de perto cada
+etapa do desenvolvimento com
+responsabilidade, acolhimento e propósito`,
     tags: ["Ortopedia Pediátrica", "Torcicolo", "Assimetria Craniana"],
   },
 ];

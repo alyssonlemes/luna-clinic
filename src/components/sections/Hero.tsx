@@ -34,8 +34,8 @@ export default function Hero() {
           </h1>
 
           <p className="text-luna-gray text-lg leading-relaxed mb-8 max-w-xl animate-fade-up animate-delay-200">
-            Na LUNA, em Franca-SP, cada criança e unica. Acompanhamos cada fase
-            da infancia com fisioterapia pediatrica especializada, tecnica,
+            Na LUNA, em Franca-SP, cada criança é única. Acompanhamos cada fase
+            da infância com fisioterapia pediátrica especializada, técnica,
             carinho e respeito ao tempo de cada pequeno.
           </p>
 
