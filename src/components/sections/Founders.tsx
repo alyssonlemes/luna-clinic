@@ -3,7 +3,7 @@ const founders = [
     name: "Mariana Lemes",
     title: "Fisioterapeuta Pediátrica",
     cref: "CREFITO-3/381986-F",
-    photo: "/images/mariana.jpg",
+    photo: "/images/mariana.JPG",
     photoPosition: "center 24%",
     color: "from-[#E8EEF5] to-[#EDF2F8]",
     accent: "bg-[#315888]",
