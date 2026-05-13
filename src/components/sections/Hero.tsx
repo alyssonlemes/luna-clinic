@@ -21,7 +21,7 @@ export default function Hero() {
           <div className="inline-flex items-center gap-2 bg-[#E8EEF5] border border-[#315888]/30 rounded-full px-4 py-1.5 mb-6 animate-fade-in">
             <Star size={13} className="text-[#315888] fill-[#315888]" />
             <span className="text-[#315888] text-xs font-medium tracking-wide">
-              Fisioterapia Pediátrica Especializada
+              Fisioterapia Pediátrica
             </span>
           </div>
 
