@@ -14,11 +14,11 @@ const testimonials = [
     text: "Um espaço acolhedor e cuidadosamente planejado para melhor atender nossos filhos, tudo pensado no conforto e praticidade para os pequenos. Eu indico de olhos fechados, o centro de desenvolvimento infantil Luna é um lugar incrível, com profissionais extremamente qualificadas e atenciosas, que estão sempre em constante evolução para oferecer um atendimento único para cada criança!",
   },
   {
-    name: "Vanessa Lemes",
+    name: "Lucas José",
     stars: 5,
-    emoji: "👩",
-    color: "bg-[#EDF2F8]",
-    text: "Espaço maravilhoso, super acolhedor. E as profissionais são super dedicadas. Recomendo demais.",
+    emoji: "👨",
+    color: "bg-[#E8EEF5]",
+    text: "Excelente ambiente, moderno e muito acolhedor. O consultório é lindo e passa total confiança, mas o grande diferencial são as profissionais, que são incríveis e muito bem capacitadas. Um lugar de confiança para quem precisa do melhor cuidado na fisioterapia infantil. Recomendo!",
   },
 ];
 

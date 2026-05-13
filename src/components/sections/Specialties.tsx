@@ -45,8 +45,8 @@ const specialties = [
     icon: "📚",
     title: "Mentorias e Consultorias",
     desc: "Orientação personalizada para famílias e profissionais da saúde, com suporte prático e emocional para quem cuida e acompanha o desenvolvimento infantil.",
-    color: "bg-[#F5F8FC]",
-    accent: "border-[#8BA5C4]/45",
+    color: "bg-[#E3EBF4]",
+    accent: "border-[#315888]/25",
   },
 ];
 
