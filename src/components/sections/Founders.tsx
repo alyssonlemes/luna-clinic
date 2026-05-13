@@ -14,7 +14,7 @@ em evidências, acolhendo cada família
 com escuta, clareza e direcionamento
 seguro para o desenvolvimento do seu filho
     `,
-    tags: ["Neuropediatria", "Desenvolvimento Motor", "Estimulação Precoce"],
+    tags: ["Torcicolo", "Desenvolvimento", "Assimetria craniana"],
   },
   {
     name: "Evelyn Guilherme",
@@ -41,7 +41,7 @@ em evidências, mas guiada pelo olhar
 humano, acompanhando de perto cada
 etapa do desenvolvimento com
 responsabilidade, acolhimento e propósito`,
-    tags: ["Ortopedia Pediátrica", "Torcicolo", "Assimetria Craniana"],
+    tags: ["Torcicolo", "Desenvolvimento", "Assimetria craniana"],
   },
 ];
 

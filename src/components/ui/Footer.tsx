@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Instagram, Heart } from "lucide-react";
 
 const quickLinks = [
@@ -18,23 +19,16 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           {/* Brand */}
           <div>
-            <div className="flex items-center gap-2 mb-4">
-              <div className="w-9 h-9 rounded-full bg-gradient-to-br from-[#315888] to-[#8BA5C4] flex items-center justify-center">
-                <span className="text-white text-base leading-none" aria-hidden="true">🌙</span>
-              </div>
-              <div>
-                <span className="font-display font-semibold text-white text-lg leading-none block">
-                  LUNA
-                </span>
-                <span className="text-luna-gray-light text-[10px] tracking-widest uppercase leading-none">
-                  Desenvolvimento Infantil
-                </span>
-              </div>
+            <div className="mb-4">
+              <Image
+                src="/images/footer-logo.png"
+                alt="Luna Centro de Desenvolvimento Infantil"
+                width={220}
+                height={100}
+                className="h-auto w-[180px] md:w-[220px] object-contain"
+              />
             </div>
-            <p className="text-luna-gray-light text-sm leading-relaxed">
-              Acolhendo cada criança com respeito, técnica e muito carinho.
-              Porque cada pequeno passo importa.
-            </p>
+            
             <div className="flex gap-3 mt-5">
               <a
                 href="https://www.instagram.com/luna.fisioped?igsh=b2lveHFqMjA4dmRk"

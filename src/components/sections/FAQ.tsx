@@ -1,23 +1,23 @@
 const faqs = [
   {
-    question: "Como saber se meu filho precisa de fisioterapia pediatrica?",
+    question: "Como saber se meu filho precisa de fisioterapia pediátrica?",
     answer:
-      "Sinais como atraso para sentar, engatinhar ou andar, assimetrias posturais, torcicolo, prematuridade e dificuldades motoras podem indicar necessidade de avaliacao com fisioterapeuta pediatrico.",
+      "Sinais como atraso para sentar, engatinhar ou andar, assimetrias posturais, torcicolo, prematuridade e dificuldades motoras podem indicar necessidade de avaliação com fisioterapeuta pediátrico.",
   },
   {
     question: "A LUNA atende apenas em Franca-SP?",
     answer:
-      "A clinica fica em Franca-SP e recebe familias da cidade e da regiao. O primeiro passo e agendar uma avaliacao para entendermos as necessidades da crianca.",
+      "A clínica fica em Franca-SP e recebe famílias da cidade e da região. O primeiro passo é agendar uma avaliação para entendermos as necessidades da criança.",
   },
   {
-    question: "Quais casos voces atendem na fisioterapia infantil?",
+    question: "Quais casos vocês atendem na fisioterapia infantil?",
     answer:
-      "Atendemos estimulacao precoce, atraso motor, assimetrias cranianas e posturais, torcicolo congenito e outras demandas do desenvolvimento neuropsicomotor.",
+      "Atendemos estimulação precoce, atraso motor, assimetrias cranianas e posturais, torcicolo congênito e outras demandas do desenvolvimento neuropsicomotor.",
   },
   {
-    question: "Como funciona o agendamento da avaliacao?",
+    question: "Como funciona o agendamento da avaliação?",
     answer:
-      "Voce pode agendar pelo WhatsApp ou pelo formulario do site. A equipe entra em contato para confirmar horario e orientar os documentos necessarios.",
+      "Você pode agendar pelo WhatsApp ou pelo formulário do site. A equipe entra em contato para confirmar horário e orientar os documentos necessários.",
   },
 ];
 

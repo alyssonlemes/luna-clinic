@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 
@@ -33,16 +34,15 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <a href="#" className="flex items-center gap-2 group">
-          <div className="w-9 h-9 rounded-full bg-gradient-to-br from-[#315888] to-[#0A2B53] flex items-center justify-center shadow-sm">
-            <span className="text-white text-base leading-none" aria-hidden="true">🌙</span>
-          </div>
-          <div>
-            <span className="font-display font-semibold text-luna-charcoal text-lg leading-none block">
-              LUNA
-            </span>
-            <span className="text-luna-gray text-[10px] tracking-widest uppercase leading-none">
-              Desenvolvimento Infantil
-            </span>
+          
+          <div className="flex items-center">
+            <Image
+              src="/images/nav-logo.png"
+              alt="Luna - Desenvolvimento Infantil"
+              width={60}
+              height={22}
+              className="object-contain w-[100px] md:w-[120px] h-auto"
+            />
           </div>
         </a>
 
